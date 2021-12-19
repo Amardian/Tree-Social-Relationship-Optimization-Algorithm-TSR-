@@ -11,3 +11,6 @@ Some of prblems :
 - Standard benchmark functions (26 function)
 
 
+for run per problem, you just need go to file and run TSR.m on MATLAB. 
+it's should be work on MATLAB and you can see all verbose of iteration, and in end the best answer by graphs show for you.
+Enjoy it.
